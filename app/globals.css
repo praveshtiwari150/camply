@@ -37,10 +37,17 @@
   --color-popover: var(--popover);
   --color-card-foreground: var(--card-foreground);
   --color-card: var(--card);
+  --color-bone: #F1EDE3;
+  --color-ebony: #282C35;
+  --color-jet: #4F4F4F;
+  --color-saphire: #0f52ba;
+  --color-midnightBlue: #003366;
+
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) + 4px);
+  
 }
 
 :root {
